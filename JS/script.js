@@ -33,3 +33,4 @@ function multiplicar(){
 
 console.log(monsuma);
 console.log(monresta);
+console.log(mondivision);
