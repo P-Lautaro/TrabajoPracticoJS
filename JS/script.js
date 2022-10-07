@@ -18,3 +18,9 @@ function resta (){
     num2 = 50;
     return num1 - num2 ;
 }
+
+function dividir (){
+    num1 = 50;
+    num2 = 50;
+    return num1 / num2 ;
+}
