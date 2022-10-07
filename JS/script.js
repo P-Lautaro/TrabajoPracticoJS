@@ -35,3 +35,8 @@ console.log(monsuma);
 console.log(monresta);
 console.log(mondivision);
 console.log(monmultiplicacion);
+
+for (let inicio of calcu ){
+    console.log (inicio)
+    inicio++;
+}
