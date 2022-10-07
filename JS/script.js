@@ -1,4 +1,4 @@
-const calcu = ["suma","resta","multiplicacion","division"]   
+const calcu = ["suma","resta","division","multiplicacion"]   
 var monsuma = suma();     
 let monresta = resta();
 let mondivision = dividir();
@@ -30,3 +30,4 @@ function multiplicar(){
     num2 = 50;
     return num1 * num2 ;
 }
+
