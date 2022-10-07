@@ -1,0 +1,1 @@
+const calcu = ["suma","resta","multiplicacion","division"]
