@@ -3,3 +3,6 @@ var monsuma = suma();
 let monresta = resta();
 let mondivision = dividir();
 let monmultiplicacion = multiplicar();
+
+let inicio;
+
