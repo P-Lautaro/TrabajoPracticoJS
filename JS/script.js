@@ -31,4 +31,4 @@ function multiplicar(){
     return num1 * num2 ;
 }
 
-console.log(monsuma)
+console.log(monsuma);
