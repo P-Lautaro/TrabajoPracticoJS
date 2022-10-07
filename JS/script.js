@@ -32,3 +32,4 @@ function multiplicar(){
 }
 
 console.log(monsuma);
+console.log(monresta);
