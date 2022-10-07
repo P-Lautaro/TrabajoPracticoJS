@@ -12,3 +12,9 @@ function sumar(){
     num2 = 50;
     return num1 + num2 ;
 }
+
+function resta (){
+    num1 = 50;
+    num2 = 50;
+    return num1 - num2 ;
+}
